@@ -1,0 +1,32 @@
+C05
+- sqrt
+Copier modification
+
+next prime
+Copier modification
+
+
+C06
+-sort params
+a faire
+
+
+C04
+- putnbr base
+rectifier la fonction check nbr
+
+- atoi base
+a faire
+
+
+C02
+- ft_putstr_non_printable
+vérifier si le dernier push etait avec la modif du zéro
+verifier pour \x81
+
+-  ft_print_memory
+a faire
+
+
+C03
+strlcat a refaire
